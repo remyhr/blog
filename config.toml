@@ -1,4 +1,4 @@
-baseURL = 'http://anhtú.vn'
+baseURL = 'http://remyhr.netlify.app'
 languageCode = 'en-us'
 title = 'Anh Tu'
 paginate = 10
