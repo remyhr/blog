@@ -12,7 +12,7 @@ categories:
 ---
 > Hạt nắng buồn vương trên đôi mắt biếc
 >
-> Tiếc chi người đã dứt áo ra đi
+> Tiếc chi người đã dứt áo ra đi<!--more-->
 >
 > Vui lên em đừng để sầu da diết
 >
