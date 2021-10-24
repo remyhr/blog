@@ -1,0 +1,17 @@
+baseURL = 'http://anhtú.vn'
+languageCode = 'en-us'
+title = 'Anh Tu'
+paginate = 10
+enableemoji = true
+
+mainSections = ["posts"]
+
+[params]
+dateFormat = '02.01.2006'
+
+[permalinks]
+posts = '/:filename/'
+
+[taxonomies]
+category = "categories"
+tag = "tags"

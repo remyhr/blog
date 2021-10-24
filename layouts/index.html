@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{ range .Paginator.Pages }}
+  <article class="article-wrap">
+    <a href="{{ .Permalink }}" class="article">
+      {{ if .Params.images }}
+      <figure class="article-figure">
+        <img src="{{ .Params.images | relURL }}" alt="{{ .Title }}" class="article-img">
+      </figure>
+      {{ else }}
+      <figure class="article-figure">
+        <img src="/images/article-img.jpg" alt="{{ .Title }}" class="article-img">
+      </figure>
+      {{ end }}
+      <section class="article-content g-10">
+        <header class="article-header">
+          <h6 class="article-header-title">
+            {{ .Title }}
+          </h6>
+        </header>
+        <div class="article-excerpt">
+          {{ .Summary }}
+        </div>
+        <p class="article-info">
+          <span class="article-date"><i class="material-icons-outlined">schedule</i>{{ dateFormat .Site.Params.dateFormat .Date }}</span> &bull;
+          <span class="article-read-time"><i class="material-icons-outlined">timer</i>{{ math.Round (div (countwords .Content) 220.0) }} min</span>
+        </p>
+      </section>
+    </a>
+  </article>
+  {{ end }}
+  <!-- paginations -->
+  <div class="pagination-container">
+    {{ template "_internal/pagination.html" . }}
+  </div>
+{{ end }}

@@ -1,0 +1,41 @@
+{{ define "main" }}
+<article class="article-wrapper flex-cl g-15">
+  <header class="article-header">
+    <h1 class="article-header-title text-center bold">{{ .Title }}</h1>
+  </header>
+  <section class="article-content g-15">
+    <div class="article-classify">
+      {{ range (.GetTerms "categories" ) }}
+      <a href="{{ .Permalink }}" class="article-category">{{ .LinkTitle }}</a>
+      {{ end }}
+      {{ range (.GetTerms "tags") }}
+      <a href="{{ .Permalink }}" class="article-tag">{{ .LinkTitle }}</a>
+      {{ end }}
+    </div>
+    <div class="article-info">
+      <span class="article-date"><i class="material-icons-outlined">schedule</i>{{ dateFormat .Site.Params.dateFormat .Date }}</span> &bull;
+      <span class="article-read-time"><i class="material-icons-outlined">timer</i>{{ math.Round (div (countwords .Content) 220.0) }} min</span>
+    </div>
+    <div class="article-body">
+      {{ .Content}}
+    </div>
+    {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+      {{- if and (gt (len $pages) 1) (in $pages . ) }}
+    <footer class="article-footer">
+      <div class="article-pagination">
+        {{- with $pages.Next . }}
+        <a class="prev-article" href="{{ .Permalink }}">
+        prev
+        </a>
+        {{- end }}
+        {{- with $pages.Prev . }}
+        <a class="next-article" href="{{ .Permalink }}">
+        next
+        </a>
+        {{- end }}
+      </div>
+      {{- end }}
+    </footer>
+  </section>
+</article>
+{{ end }}

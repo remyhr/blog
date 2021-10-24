@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{- $pages := union .RegularPages .Sections }}
+{{- $paginator := .Paginate $pages }}
+<header class="article-header">
+    <h2 class="article-header-title bold">
+      #{{ .Title }}
+    </h2>
+</header>
+    {{ range .Paginator.Pages }}
+        <article class="article-wrap">
+            <a href="{{ .Permalink }}" class="article">
+                <section class="article-content g-10">
+                    <header class="article-header">
+                      <h6 class="article-header-title">
+                        {{ .Title }}
+                      </h6>
+                    </header>
+                    <p class="article-info">
+                      <span class="article-date"><i class="material-icons-outlined">schedule</i>{{ dateFormat .Site.Params.dateFormat .Date }}</span> &bull;
+                      <span class="article-read-time"><i class="material-icons-outlined">timer</i>{{ math.Round (div (countwords .Content) 220.0) }} min</span>
+                    </p>
+                </section>
+            </a>
+        </article>
+    {{ end }}
+    {{- if gt $paginator.TotalPages 1 }}
+    <div class="article-pagination mt-20">
+        {{- if $paginator.HasPrev }}
+            <a class="prev-article" href="{{ $paginator.Prev.URL | absURL }}">
+            prev
+            </a>
+        {{- end }}
+        {{- if $paginator.HasNext }}
+            <a class="next-article" href="{{ $paginator.Next.URL | absURL }}">
+            next
+            </a>
+        {{- end }}
+    </div>
+    {{- end }}
+{{ end }}

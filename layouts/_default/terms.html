@@ -1,0 +1,12 @@
+{{- define "main" -}}
+<header class="article-header">
+    <h2 class="article-header-title bold mb-20">
+      #{{ .Title }}
+    </h2>
+</header>
+<div class="article-classify">
+    {{ range .Data.Terms.Alphabetical }}
+        <a href="{{ .Page.RelPermalink }}" class="classify-item">{{ .Page.Title }}<sup>{{ .Count }}</sup></a>
+    {{ end }}
+</div>
+{{- end -}}
