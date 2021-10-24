@@ -10,9 +10,11 @@ tags:
 categories:
   - Poetry
 ---
+Hạt nắng buồn vương trên đôi mắt biếc
+<!--more-->
 > Hạt nắng buồn vương trên đôi mắt biếc
 >
-> Tiếc chi người đã dứt áo ra đi<!--more-->
+> Tiếc chi người đã dứt áo ra đi
 >
 > Vui lên em đừng để sầu da diết
 >
