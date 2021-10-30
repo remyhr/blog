@@ -23,21 +23,26 @@ Hoạ thơ bao gồm *hoạ phóng vận* và *hoạ hạn vận*:
 Hoạ Phóng Vận là dựa vào một bài thơ có sẳn được gọi là Bài Thơ Xướng. Sau đây những qui tắc Hoạ Phóng Vận:
 
 **1. Hoạ thể Thơ**
+
 Bài Xướng thuộc thể thơ gì, bài hoạ phải theo thể thơ đó. Nếu bài Xướng là Đường Luật Thất Ngôn Tứ Tuyệt thì bài Hoạ cũng Đường Luật Thất Ngôn Tứ Tuyệt. Bài Xướng là Đường Luật Ngũ Ngôn Bát Cú thì Bài Hoạ phải theo thể thơ Đường Luật Ngũ Ngôn Bát Cú...
 
 **2. Họa vần**
+
 Trong bài Thơ Xướng, Những chữ gieo Vần là Chữ gì, thì bài hoạ phải giữ nguyên các chữ đó. Không được sử dụng chữ khác.
 
 **3. Hoạ ý**
+
 Bài xướng nói về ý gì thì bài họa cũng phải nêu lên ý đó hoặc đối lại, hay có thể nói rộng nghĩa ra.
 
 **4. Hoạ luật**
+
 Bài xướng gieo luật gì thì bài họa phải đối lại luật đó. Thí dụ *bài xướng luật trắc thì bài họa phải luật bằng* và ngược lại. 
 Tuy nhiên, nếu có nhiều người cùng hoạ một bài thơ, chỉ cần bài của người đầu tiên phải hoạ đúng luật Bằng Trắc, còn các bài sau không cần phải theo luật.
 
 **5. Không được sử dụng lại chữ đứng trước chữ gieo vần của bài xướng**
 
-Một điều thật quan trọng trong Qui tắc hoạ thơ, không được dùng lại chữ thứ 6 (thơ Thất Ngôn hay chữ thứ 4 Thơ Ngũ Ngôn) trong các câu có gieo vần của bài xướng. Tức là không được dùng lại từ đứng trước các chữ gieo vần của bài xướng (trong giới làm thơ gọi đây là lỗi "Khắc Lục"). Thí dụ như bài thơ bên dưới, các chữ: chữ, Giang, mây, má....không được dùng lại mà phải thay bằng các chữ khác : câu, cõi, sắc, màu... Càng tránh dùng trùng từ trong toàn bài của bài xướng càng tốt, ngoại trừ những Chữ đặc biệt không thể tránh được.
+Một điều thật quan trọng trong Qui tắc hoạ thơ, không được dùng lại chữ thứ 6 (thơ Thất Ngôn hay chữ thứ 4 Thơ Ngũ Ngôn) trong các câu có gieo vần của bài xướng. Tức là không được dùng lại từ đứng trước các chữ gieo vần của bài xướng (trong giới làm thơ gọi đây là lỗi "Khắc Lục"). Thí dụ như bài thơ bên dưới, các chữ: chữ, Giang, mây, má....không được dùng lại mà phải thay bằng các chữ khác 
+: câu, cõi, sắc, màu... Càng tránh dùng trùng từ trong toàn bài của bài xướng càng tốt, ngoại trừ những Chữ đặc biệt không thể tránh được.
 
 Tóm lại một bài họa chuẩn phải hội đủ 5 điều kiện trên.
 
@@ -86,9 +91,10 @@ Sau đây là  thí dụ về xướng họa điển hình rất chuẩn mực, 
 > Anh *hỡi* Tôn *Quyền* anh *có* biết
 >
 > Trai *ngay* thờ *chúa* gái *thờ* **chồng**
-(Những *chữ in nghiêng bắt buộc phải trái bằng trắc với nhau).*
 
-Chúng ta thấy bài Xướng theo Luật Trắc (Chữ Ngựa), bài hoạ theo Luật Bằng ( chữ Trâm)
+(Những *chữ in nghiêng* bắt buộc phải trái bằng trắc với nhau).
+
+Chúng ta thấy bài Xướng theo Luật Trắc (Chữ Ngựa), bài hoạ theo Luật Bằng (chữ Trâm)
 
 ***b. Hoạ Đảo Vận***
 
@@ -113,7 +119,7 @@ Họa ngược thứ tự của các vần từ dưới lên trên, thay vì h�
 > Quý Tỵ hữu duyên hẹn mộng **thành**…
 >
 > *Thiềng Đức*
->
+
 > **Tình Quê** (Họa Đảo Vận)
 >
 > Cù lao yêu dấu vốn An **Thành**
@@ -133,6 +139,7 @@ Họa ngược thứ tự của các vần từ dưới lên trên, thay vì h�
 > Quê hương sông Cửu mãi an **lành**
 >
 > *Quên Đi*
+
 Chúng ta thấy các Vần bài Xướng từ trên xuống dưới: Lành, tình, xanh, danh,thành. Bên bài Hoạ đảo vận sẽ đi ngược từ dưới lên trên. 
 
 ***c. Hoạ Hoán Vận***
@@ -182,34 +189,36 @@ Bài Hoạ như sau:
 > Thói hư thuần thước xưa còn lạc
 >
 > Đừng học làm chi gióng nhảy **rô**
->
+
 > **Xuân Tình**
 >
-> Trống tự cõi lòng  giục giã xô
+> Trống tự cõi lòng  giục giã **xô**
 >
-> Đêm trường canh vắng một mình cô
+> Đêm trường canh vắng một mình **cô**
 >
 > Sóng tình vẩy gọi nên tìm đến
 >
-> Dùi trống trao mời mới dám vô
+> Dùi trống trao mời mới dám **vô**
 >
 > Thần Nữ thước tha khoe dáng ngọc
 >
-> Ngưu Lang hớn hở vượt cầu ô
+> Ngưu Lang hớn hở vượt cầu **ô**
 >
 > Âm dương kết hợp ngàn năm vẫn
 >
-> Chẳng phải theo đòi thứ mặt r
+> Chẳng phải theo đòi thứ mặt **rô**
 >
 > *Quên Đi* 
+
 Còn có một lối hoạ hạn vận rất khó. Hoàng Thứ Lang kể lại một câu chuyện như sau:
 
 Mùa Hè năm 1926, trong dịp thi sĩ Đão Sĩ Nhã đến thăm gia đình họ Phan ở Hưng Yên. Ông khách Đào Sĩ Nhã thách lão thi sĩ Phan Mạnh Danh làm một bài thơ Nôm Đường luật với các điều kiện sau:
 
 * Đầu đề: Xuân Khuê
-* Hạn 5 vần : chờ - hờ - thưa - tơ - thơ
+* Hạn 5 vần: chờ - hờ - thưa - tơ - thơ
 * Phải dùng 19 chữ: một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười, trăm, ngàn, vạn, đôi, cặp, nửa, trượng, thước, tấc.
-  Sau đây là bài thơ Nôm hoạ hạn vận của lão thi sĩ Phan Mạnh Danh:
+
+Sau đây là bài thơ Nôm hoạ hạn vận của lão thi sĩ Phan Mạnh Danh:
 
 > **Xuân Khuê**
 >
@@ -230,7 +239,7 @@ Mùa Hè năm 1926, trong dịp thi sĩ Đão Sĩ Nhã đến thăm gia đình h
 > Biếng đem bảy vẻ dệt nên thơ
 >
 > *Phan Mạnh Danh*
->
+
 > **Phận Bạc**
 >
 > Bảy thương tám đợi chín mười chờ
@@ -250,6 +259,7 @@ Mùa Hè năm 1926, trong dịp thi sĩ Đão Sĩ Nhã đến thăm gia đình h
 > Đem ngàn đau đớn gởi vào thơ.
 >
 > *Quên Đi*
+
 **II. Hoạ các thể thơ ngày nay**
 
 Do sự phát triển mạnh mẽ của Thơ Mới, nên ngày nay xuất hiện xu hướng hoạ thêm các thể thơ như Thơ Mới, Lục Bát...nói chung là tất cả các Thể Loại Thơ hiện tại (Ngoại trừ loại thơ không hoặc ít có gieo vần như thơ Tự Do).
@@ -308,7 +318,7 @@ Hoạ Thơ Mới 7 Chữ:
 >
 > Mặt mũi ngày xưa không nhớ ra.
 >
-> ''Đáy nước tìm trăng'' mà vẫn lội
+> "Đáy nước tìm trăng" mà vẫn lội
 >
 > Vội tỉnh, vội mê, vội gật gà...
 >
@@ -318,10 +328,10 @@ Hoạ Thơ Mới 7 Chữ:
 >
 > Có ai nẻo Giác bàn chân vội ?
 >
-> ''Hỏa trạch'' bước ra, dứt não nề...
+> "Hỏa trạch" bước ra, dứt não nề...
 >
 > *Thích Tánh Tuệ*
->
+
 > **Chẳng (Hoạ)**
 >
 > Chẳng biết chẳng quen chẳng phai nhoà
@@ -365,6 +375,7 @@ Hoạ Thơ Mới 7 Chữ:
 > "Niết Bàn" siêu thoát hết nặng nề..
 >
 > *Quên Đi*
+
 Họa Thơ Lục Bát
 
 > **Hoàng Hạc Lâu**
@@ -386,6 +397,7 @@ Họa Thơ Lục Bát
 > Trên sông khói toả lòng đầy nhớ nhung.
 >
 > *Quên Đi*
+
 Bài Họa:
 
 > **Một Chút Thơm Rơi**
@@ -407,6 +419,7 @@ Bài Họa:
 > Mà hình bóng mãi đong đầy mắt nhung
 >
 > *Kim Phượng*
+
 Qua thí dụ bên trên, chữ gieo vần chúng ta cần phải giữ không phân biệt giữa câu hay cuối câu, vì đó là một trong những điều giữ cho một bài thơ Hoạ đúng chuẩn mực.
 
 Tóm lại, Hoạ Thơ do Các Thi Nhân Xưa truyền lại, và cũng là nét đặc sắc trong Thi Ca. Là Hậu Sinh chúng ta cần cố gắng gìn giữ những cái hay cái đẹp của Tiền Nhân. 
