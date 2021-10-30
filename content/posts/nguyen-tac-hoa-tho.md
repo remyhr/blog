@@ -73,7 +73,7 @@ Sau đây là  thí dụ về xướng họa điển hình rất chuẩn mực, 
 > Ai *về* nhắn *với* Châu *Công* Cẩn
 >
 > Thà *mất* lòng *anh* được *bụng* **chồng**
->
+
 > *(Hoạ của Phan Văn Trị)*
 >
 > Cài *trâm* sửa *áo* vẹn *câu* **tòng**
