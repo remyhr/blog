@@ -13,7 +13,7 @@ categories:
 **I. Hoạ thơ Đường luật**
 
 Hoạ thơ là một thú vui của các thi nhân thuở trước. Tuy ngày xưa cũng có nhiều thể thơ, nhưng các thi nhân chỉ chọn *thơ Đường luật* để xướng hoạ (trong xướng họa còn có nghĩa đối đáp).
-
+<!--more-->
 Tại sao? Các vị ấy cho rằng làm một bài thơ Đường luật theo đúng niêm, luật đã khó, khi hoạ, lại càng khó hơn, do phải thêm các qui đinh. Có như thế mới chứng tỏ thi tài của các vị. Chính vì muốn tạo cái khó, nên các cụ ngày xưa đã đề ra qui luật hoạ thơ rất chặt chẽ.
 
 Hoạ thơ bao gồm *hoạ phóng vận* và *hoạ hạn vận*:
